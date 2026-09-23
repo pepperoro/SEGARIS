@@ -30,7 +30,6 @@ export default function Navbar({ onOpenPrivacy, onOpenAuth, currentUser, onLogou
     <header className={`navbar-wrapper ${scrolled ? 'scrolled' : ''}`}>
       <div className="navbar-inner">
         <a href="#" onClick={(e) => { e.preventDefault(); handleNavClick(''); }} className="navbar-logo">
-          <img src="/logo_tcc.png" alt="TCC Logo" />
           <img src="/logo.png" alt="SEGARIS Logo" />
           <span>SEGARIS</span>
         </a>

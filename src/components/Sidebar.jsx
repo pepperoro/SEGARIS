@@ -28,7 +28,6 @@ export default function Sidebar({ activeTab, setActiveTab, currentUser, onLogout
 
         {/* Brand Logo Header */}
         <div className="sidebar-brand">
-          <img src="/logo_tcc.png" alt="TCC Logo" className="sidebar-logo-img" />
           <img src="/logo.png" alt="SEGARIS Logo" className="sidebar-logo-img" />
           <div className="sidebar-brand-text">
             <span className="sidebar-title">SEGARIS</span>
