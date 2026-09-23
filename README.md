@@ -253,7 +253,8 @@ SEGARIS/
 
 Proyek ini dirancang dan dikembangkan dengan penuh dedikasi oleh:
 
-* **Idea, Concept, Design**: Chelsea Franssiska Putri Gautama
+* **Idea, Concept, and Documentation**: Chelsea Franssiska Putri Gautama
+* **UI/UX Designer and QA**: Kevin Marcelino Porobaten
 * **Fullstack Developer**: Bayu Nismara Nagatama
 
 ---
